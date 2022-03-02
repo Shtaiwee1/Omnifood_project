@@ -5,9 +5,9 @@ Made by Mohammmad Omair
 Overview:
 This project is a landing page was made for a local food delivery service, that only prepares healthy food, you can use this service upon subscription by paying a monthly fee to get a healthy lifestyle and never cook again.
 
-Languages used in this project:
-HTML
-CSS
+Technologies used in this project:
+HTML,
+CSS,
 Javascript
 
 Methodology:
