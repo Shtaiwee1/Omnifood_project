@@ -15,7 +15,7 @@ As this project adheres to the agile methodology, some future updates can be mad
 
 Snapshots:
 ![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/one.PNG)
-![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/two.PNG)
-![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/three.PNG)
 ![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/four.PNG)
+![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/two.PNG)
 ![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/five.PNG)
+![My Image](https://github.com/Shtaiwee1/Omnifood_project/blob/master/Omnifood_project/three.PNG)
